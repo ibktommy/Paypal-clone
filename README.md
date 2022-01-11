@@ -1,7 +1,7 @@
 # Paypal-clone
 A webpage clone of Paypal
 
-<a "https://paypal-clone-atomdev.netlify.app/">
+<a href="https://paypal-clone-atomdev.netlify.app/">
       Project Website
 </a>
 
