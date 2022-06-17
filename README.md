@@ -5,7 +5,6 @@ A webpage clone of Paypal
       Project Website
 </a>
 
-This is a website I created as a project in an Udemy course.<br><br>
 It is a website that stands as a clone of the Paypal company official website.<br><br>
 In this project, I used CSS Flexbox for the general layout of the website.<br><br>
 The website also features a "Sign-up/Login Page".<br><br>
